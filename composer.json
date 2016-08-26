@@ -1,0 +1,12 @@
+{
+    "name": "akihito/embedtest",
+    "require": {
+        "embed/embed": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Akihito Koriyama",
+            "email": "akihito.koriyama@gmail.com"
+        }
+    ]
+}
